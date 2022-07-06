@@ -37,8 +37,11 @@ body {
   font-size: 25px;
   font-weight: 700;
   padding: 12px 80px;
-  margin-top: 50px;
+  margin-bottom: 50px;
   border-radius: 5px;
+}
+.para_text {
+  margin-bottom: 50px;
 }
 .donate_amount {
   text-decoration: none;
