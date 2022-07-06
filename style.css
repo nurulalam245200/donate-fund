@@ -32,17 +32,18 @@ body {
 }
 .link_style {
   text-decoration: none;
-  background-image: linear-gradient(purple, darkviolet);
+  background-image: linear-gradient(purple, rgb(0, 211, 200));
   color: white;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 700;
-  padding: 20px;
+  padding: 12px 80px;
+  margin-top: 50px;
   border-radius: 5px;
 }
 .donate_amount {
   text-decoration: none;
   font-size: 30px;
-  padding: 15px;
+  padding: 10px;
   background-color: #f8f2f2;
   border-radius: 10px;
   color: gray;
